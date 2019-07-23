@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /_/admin/
+Allow: /_/admin/admin-ajax.php
+
+Sitemap: https://v1.5.vision/sitemap.xml
